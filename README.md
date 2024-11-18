@@ -20,11 +20,11 @@ This is a classic two-player game where players take turns marking spaces on a 3
 2. Players take turns entering the number corresponding to the cell where they want to place their mark:
    - The cell numbers are as follows:
      
-0 | 1 | 2
+     0 | 1 | 2
 
-3 | 4 | 5
+     3 | 4 | 5
 
-6 | 7 | 8
+     6 | 7 | 8
 
 
 3. The game announces a winner if one player aligns three marks in a row, column, or diagonal.
