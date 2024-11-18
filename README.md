@@ -19,6 +19,7 @@ This is a classic two-player game where players take turns marking spaces on a 3
 1. When the game starts, a blank 3x3 board is displayed.
 2. Players take turns entering the number corresponding to the cell where they want to place their mark:
    - The cell numbers are as follows:
+     
 0 | 1 | 2
 
 3 | 4 | 5
