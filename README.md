@@ -20,7 +20,9 @@ This is a classic two-player game where players take turns marking spaces on a 3
 2. Players take turns entering the number corresponding to the cell where they want to place their mark:
    - The cell numbers are as follows:
 0 | 1 | 2
+
 3 | 4 | 5
+
 6 | 7 | 8
 
 
